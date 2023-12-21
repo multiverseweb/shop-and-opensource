@@ -138,6 +138,9 @@ This Software Requirement Specification (SRS) document serves as a comprehensive
 ---
 ---
 
+## DFDs
+![Image](ngms-dfd0,1.png)
+
 ## Conclusion
 
 In summary, the Collection Management System, developed using Python and MySQL, seamlessly integrated with a dedicated website frontend, stands as a sophisticated solution for enthusiasts managing their coin and banknote collections. The project's strength lies in the combination of Python's flexibility for backend logic and MySQL's prowess as a relational database, fostering efficient data management.
@@ -496,5 +499,3 @@ void loadUserData(vector<User>& users) {
 ```
 
 [Link to frontend.](https://multiverseweb.github.io/login/)
-
-![Image](https://cdn.iconscout.com/icon/free/png-256/free-markdown-1-457956.png)
