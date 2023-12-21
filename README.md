@@ -54,7 +54,7 @@ Some of the functions that we will develop for the same purpose are as follows:
 - Complete transactions through the integrated shop feature.
 
 > **1.4 References:** The reference for user interface for this software may be taken from the websites:
- [](https://multiverseweb.github.io/coinshop/) and  [](https://multiverseweb.github.io/login/) .
+ [Home Page](https://multiverseweb.github.io/coinshop/) and  [Login Window](https://multiverseweb.github.io/login/) .
 
 > **1.5  Definitions, Acronyms, and Abbreviations:**
 - C++: The programming language used for software development.
