@@ -13,19 +13,29 @@ The essence of this project is to create a fully functional interactive collecti
 ## Introduction of the Numismatic Gallery Management System
 
 We will make this project by using C++ and text file handling. It will be a menu-driven program, in which we will use different user-defined functions for different actions that the user wants to perform. Some of the actions that the user will be able to perform are:
+
 ✯ View details                  ✯ Add details
+
 ✯ Delete details                ✯ Admin mode  
+
 ✯ User login                    ✯ Update details
+
 ✯ View Cart                     ✯ Exit
+
 Some of the functions that we will develop for the same purpose are as follows:
 
 <mark>Functions developed:</mark>
 
 ***country( )***: This function will look at whether the currency of the entered country exists in the collection or not.
+
 ***add_coin( )***: This function will help the user to enter information about the currency coin that is not yet part of the collection.
+
 ***add_note( )***: This function will help the user to enter information about the currency note that is not yet part of the collection.
+
 ***delete_coin( )***: This function will help the user to delete information about the currency coin which may be incorrect.
+
 ***delete_note( )***: This function will help the user to delete information about the currency coin which may be incorrect.
+
 ***accounts( )***:  This function will help in managing the customer accounts.
 
 ---
