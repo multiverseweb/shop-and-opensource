@@ -150,7 +150,7 @@ This Software Requirement Specification (SRS) document serves as a comprehensive
 ---
 
 ## DFDs
-![Image](https://drive.google.com/file/d/1ErKwtpE_v29_4e4ZoAAUXKMIYWrqOhNN/view?usp=drive_link)
+![Image](https://drive.google.com/file/d/1ErKwtpE_v29_4e4ZoAAUXKMIYWrqOhNN/)
 
 ## Conclusion
 
