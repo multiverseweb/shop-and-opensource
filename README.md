@@ -14,13 +14,13 @@ The essence of this project is to create a fully functional interactive collecti
 
 We will make this project by using C++ and text file handling. It will be a menu-driven program, in which we will use different user-defined functions for different actions that the user wants to perform. Some of the actions that the user will be able to perform are:
 
-✯ View details                  ✯ Add details
+✯ View details&emsp;&emsp;&emsp;&emsp;&emsp;✯ Add details
 
-✯ Delete details                ✯ Admin mode  
+✯ Delete details&emsp;&emsp;&emsp;&emsp;&emsp;✯ Admin mode  
 
-✯ User login                    ✯ Update details
+✯ User login&emsp;&emsp;&emsp;&emsp;&emsp;✯ Update details
 
-✯ View Cart                     ✯ Exit
+✯ View Cart&emsp;&emsp;&emsp;&emsp;&emsp;✯ Exit
 
 Some of the functions that we will develop for the same purpose are as follows:
 
@@ -166,6 +166,7 @@ In essence, the Collection Management System, with its Python-MySQL synergy and 
 ---
 ---
 
+#Source Code
 ```C++
 #include <iostream>
 #include <fstream>
