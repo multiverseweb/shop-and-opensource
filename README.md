@@ -510,6 +510,7 @@ void loadUserData(vector<User>& users) {
 
 ```
 
+---
 [Link to frontend.](https://multiverseweb.github.io/login/)
-
+---
 Tejas' Code :)
