@@ -26,17 +26,17 @@ Some of the functions that we will develop for the same purpose are as follows:
 
 <mark>Functions developed:</mark>
 
-***country( )***: This function will look at whether the currency of the entered country exists in the collection or not.
+- ***country( )***: This function will look at whether the currency of the entered country exists in the collection or not.
 
-***add_coin( )***: This function will help the user to enter information about the currency coin that is not yet part of the collection.
+- ***add_coin( )***: This function will help the user to enter information about the currency coin that is not yet part of the collection.
 
-***add_note( )***: This function will help the user to enter information about the currency note that is not yet part of the collection.
+- ***add_note( )***: This function will help the user to enter information about the currency note that is not yet part of the collection.
 
-***delete_coin( )***: This function will help the user to delete information about the currency coin which may be incorrect.
+- ***delete_coin( )***: This function will help the user to delete information about the currency coin which may be incorrect.
 
-***delete_note( )***: This function will help the user to delete information about the currency coin which may be incorrect.
+- ***delete_note( )***: This function will help the user to delete information about the currency coin which may be incorrect.
 
-***accounts( )***:  This function will help in managing the customer accounts.
+- ***accounts( )***:  This function will help in managing the customer accounts.
 
 ---
 ## Literature Study of Numismatic Gallery Management System
@@ -509,4 +509,4 @@ void loadUserData(vector<User>& users) {
 ---
 [Link to frontend.](https://multiverseweb.github.io/login/)
 ---
-Tejas' Code :)
+Tejas' Codes :)
