@@ -151,7 +151,7 @@ This Software Requirement Specification (SRS) document serves as a comprehensive
 
 ## DFDs
 ![Image](ngms-dfd0,1.png)
-
+![Image](ngms-dfd2.svg)
 ## Conclusion
 
 In conclusion, the Shop Management System and Online Currency Catalogue project has successfully demonstrated the capabilities of C++ and effective file handling. The Shop Management System efficiently handles inventory and sales, utilizing file handling for data persistence. The Online Currency Catalogue offers a user-friendly platform for exploring and contributing to a global currency collection, with secure storage of user-contributed data.
