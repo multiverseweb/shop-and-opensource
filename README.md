@@ -14,13 +14,12 @@ The essence of this project is to create a fully functional interactive collecti
 
 We will make this project by using C++ and text file handling. It will be a menu-driven program, in which we will use different user-defined functions for different actions that the user wants to perform. Some of the actions that the user will be able to perform are:
 
-✯ View details&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✯ Add details
-
-✯ Delete details&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✯ Admin mode  
-
-✯ User login&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✯ Update details
-
-✯ View Cart&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✯ Exit
+<pre>
+✯ View details                    ✯ Add details
+✯ Delete details                  ✯ Admin mode  
+✯ User login                      ✯ Update details
+✯ View Cart                       ✯ Exit
+</pre>
 
 Some of the functions that we will develop for the same purpose are as follows:
 
