@@ -62,7 +62,7 @@ Some of the functions that we will develop for the same purpose are as follows:
 
 ### 2. Overall Description
 
-> **2.1 Product Perspective:** The Coin Collector Database Management System is a standalone web-based application. It interfaces with a text file database to store and retrieve coin collection and shopping cart data. The project database system stores the following information:
+> **2.1 Product Perspective:** The Coin Collector Database Management System is a standalone C++ based CLI application. It interfaces with a text file database to store and retrieve coin collection and shopping cart data. The project database system stores the following information:
 Item Details: It includes the information of collectibles that are already available for sale and users can fetch the information about these items or can buy them too.
 Customer Details: It includes the customer account details such as customer name, password and items in cart.
 
@@ -109,23 +109,15 @@ Detailed functional requirements are specified in Section 2.2.
 
 ### 5. Methodology Used
 > **5.1 User Interface**
- Mobile View
-
-
 
 Desktop View
 
+![](https://raw.githubusercontent.com/multiverseweb/shop-and-opensource/refs/heads/main/dashboard.png)
 
-> **5.2 Hardware Interface:**
-- A browser that supports HTML, CSS and JavaScript.
-> **5.3  Performance:**
-- The application shall load quickly and respond to user interactions in a timely manner.
-- The sky map rendering shall be smooth, even on devices with lower 
-processing power.
-> **5.4  Open Source:**
-- This should be an open source web software in which users should be able to copy the information they want.
+> **5.2  Open Source:**
+- This should be an open source software.
 
-> **5.5 Software Interfaces:**
+> **5.3 Software Interfaces:**
 
 | Software Used | Description |
 |:----------:|---:|
@@ -133,24 +125,18 @@ processing power.
 | Database|To save records, we have chosen text files.|
 |Backend Language|We have chosen C++ for its more interactive support.|
 
-> **5.6 Communication Interface:**
- The project supports all types of web browsers and devices.
-
-### 6. Constraints
-> **6.1 Data Storage:**
-Dependent on scalable databases for user accounts and interactions, adhering to privacy regulations.
-> **6.2  Internet Connectivity:**
-Platform requires an active internet connection for access.
+> **5.4 Communication Interface:**
+ The project supports all types of operating systems.
 
 ### 7. Conclusion
 This Software Requirement Specification (SRS) document serves as a comprehensive guide for the development of the Numismatic Gallery Management System, ensuring that all specified requirements are addressed. Detailed requirements ensure a secure, accessible, and user-friendly environment, supported by ongoing maintenance and future enhancements.
 
 ---
----
 
 ## DFDs
-![Image](ngms-dfd0,1.png)
-![Image](ngms-dfd2.svg)
+![Image](https://raw.githubusercontent.com/multiverseweb/shop-and-opensource/refs/heads/main/ngms-dfd0%2C1.png)
+![Image](https://raw.githubusercontent.com/multiverseweb/shop-and-opensource/4b15fc89d58f8ad2678a392ad38742bdb873e167/ngms-dfd2.svg)
+
 ## Conclusion
 
 In conclusion, the Shop Management System and Online Currency Catalogue project has successfully demonstrated the capabilities of C++ and effective file handling. The Shop Management System efficiently handles inventory and sales, utilizing file handling for data persistence. The Online Currency Catalogue offers a user-friendly platform for exploring and contributing to a global currency collection, with secure storage of user-contributed data.
@@ -159,7 +145,6 @@ This project has not only showcased technical proficiency in C++ but also highli
 
 Looking forward, there is potential for further enhancements and features to expand the project's capabilities. Overall, this project signifies a successful application of C++ in shop management and online collaborative platforms, contributing to continuous learning and improvement in software development.
 
----
 ---
 [Link to frontend.](https://multiverseweb.github.io/login/)
 ---
